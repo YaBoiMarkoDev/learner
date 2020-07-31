@@ -1,0 +1,13 @@
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.exe
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.deps.json
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.runtimeconfig.json
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.runtimeconfig.dev.json
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.dll
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\bin\Debug\net5.0\matejin c sharpener.pdb
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.AssemblyInfoInputs.cache
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.AssemblyInfo.cs
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.dll
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.pdb
+C:\Users\marko\Desktop\Sav taj kod\C#\matejin c sharpener\obj\Debug\net5.0\matejin c sharpener.genruntimeconfig.cache
